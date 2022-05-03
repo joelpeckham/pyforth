@@ -1,0 +1,128 @@
+0,Null
+1,Start of Header
+2,Start of Text
+3,End of Text
+4,End of Transmission
+5,Enquiry
+6,Acknowledge
+7,Bell
+8,Backspace
+9,Horizontal Tab
+10,Line Feed
+11,Vertical Tab
+12,Form Feed
+13,Carriage Return
+14,Shift Out
+15,Shift In
+16,Data Link Escape
+17,Device Control 1
+18,Device Control 2
+19,Device Control 3
+20,Device Control 4
+21,Negative Acknowledge
+22,Synchronize
+23,End of Transmission Block
+24,Cancel
+25,End of Medium
+26,Substitute
+27,Escape
+28,File Separator
+29,Group Separator
+30,Record Separator
+31,Unit Separator
+32,Space
+33,exclamation mark
+34,double quote
+35,number
+36,dollar
+37,percent
+38,ampersand
+39,single quote
+40,left parenthesis
+41,right parenthesis
+42,asterisk
+43,plus
+44,comma
+45,minus
+46,period
+47,slash
+48,zero
+49,one
+50,two
+51,three
+52,four
+53,five
+54,six
+55,seven
+56,eight
+57,nine
+58,colon
+59,semicolon
+60,less than
+61,equality sign
+62,greater than
+63,question mark
+64,at sign
+65,
+66,
+67,
+68,
+69,
+70,
+71,
+72,
+73,
+74,
+75,
+76,
+77,
+78,
+79,
+80,
+81,
+82,
+83,
+84,
+85,
+86,
+87,
+88,
+89,
+90,
+91,left square bracket
+92,backslash
+93,right square bracket
+94,caret / circumflex
+95,underscore
+96,grave / accent
+97,
+98,
+99,
+100,
+101,
+102,
+103,
+104,
+105,
+106,
+107,
+108,
+109,
+110,
+111,
+112,
+113,
+114,
+115,
+116,
+117,
+118,
+119,
+120,
+121,
+122,
+123,left curly bracket
+124,vertical bar
+125,right curly bracket
+126,tilde
+127,delete

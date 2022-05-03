@@ -1,0 +1,8 @@
+My project is called pyForth. | A minimal python Forth implementation.
+
+I think forth is interesting from a programming lang. perspective for two reasons.
+	1. Forth is a stack based language, which feels foreign or even backwards to many
+	current programmers.
+	2. The Forth interpreter is highly extensible, allowing for the programmer to define
+	language features that behave just like built-in parts of the language.
+
